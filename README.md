@@ -11,7 +11,7 @@ In 2024, I dedicated myself to learning web development. I started with **HTML &
 - **Version Control**: Git & GitHub  
 - **APIs, Databases, Authentication & Security**  
 
-I'm not a pro yet, but I'm getting there! 💪  
+I'm not a pro yet, but I will be! 💪  
 
 ## ⚡ Fun Facts About Me  
 - I have **44 siblings**.  
