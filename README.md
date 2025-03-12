@@ -9,7 +9,7 @@ In 2024, I dedicated myself to learning web development. I started with basic **
 - **Frontend Frameworks** – React (Hooks, Components, Routing)  
 - **Backend Development** – Node.js, Express, PostgreSQL, OAuth  
 - **Version Control & Tools** – Git, GitHub, Postman, Axios  
-- **APIs & Security** – REST APIs, authentication, database management 
+- **APIs & Security** – APIs, authentication, database management 
 
 Actively building projects & expanding my skills! 💪  
 
