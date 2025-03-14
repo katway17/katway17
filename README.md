@@ -11,7 +11,7 @@ In 2024, I dedicated myself to learning web development. I started with basic **
 - **Version Control & Tools** – Git, GitHub, Postman, Axios  
 - **APIs & Security** – Rest APIs, authentication, database management 
 
-Actively building projects & expanding my skills! 💪  
+Actively building projects & expanding my skills!  
 
 ## ⚡ Fun Facts About Me  
 - I have **44 siblings**.  
