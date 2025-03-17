@@ -21,4 +21,4 @@ Actively building projects & expanding my skills!
 
 ### 🔗 **Find Me Online**  
 - 💻 [My GitHub](https://github.com/katway17)  
-- 📫 **Let's Connect!** Reach out if you want to talk **books, tech, or both!** 🚀  
+- 📫 **Let's Connect!** Reach out if you want to talk **books, tech, or both!**   
