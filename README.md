@@ -20,5 +20,5 @@ Actively building projects & expanding my skills!
 - I **signed up for a full marathon** despite **hating running** and having **zero training**. (Ask me how that went.) 
 
 ### 🔗 **Find Me Online**  
-- 💻 [My GitHub](https://github.com/katway17)  
+- 💻 [My LinkedIn](https://www.linkedin.com/in/kathleen-wayman-5210b0352/) 
 - 📫 **Let's Connect!** Reach out if you want to talk **books, tech, or both!**   
