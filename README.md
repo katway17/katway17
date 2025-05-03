@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Kathleen!  
+ # Hi, I'm Kathleen!  
  
  I live in Southern Utah, and I'm passionate about books and coding.  
    
